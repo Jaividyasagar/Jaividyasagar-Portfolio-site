@@ -415,7 +415,7 @@ hr.new1 {
         /* font-family: "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, sans-serif; */
         font-size: 1rem;
         font-weight: 400;
-        transition: all 0.2s ;
+        transition: all 0.3s ;
     } 
     #navlinks:hover {
     
