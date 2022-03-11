@@ -6,6 +6,7 @@
       //     nav.classList.remove("add-shadow");
       //   }
       // });
+    //   
       $(window).scroll(function(){
         if ($(window).scrollTop() >= 30) {
            $('#navigation-container').addClass('shadow-header');
